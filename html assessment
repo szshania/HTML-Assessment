@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Webpage</title>
+</head>
+<body>
+<h1>My First Webpage</h1>
+<h2>Shania Sanchez</h2>
+<img src="IMG_7264.jpg">
+<p>During the pandemic, I watched new shows such as The Uncanny Counter and Million Dollar Listing. I also dyed my hair red because I was bored of my natural color and I began online school.</p>
+<h3>Things I like</h3>
+<ul>
+    <li>Movies</li>
+    <li>French fries</li>
+    <li>Music</li>
+</ul>
+</body>
+</html>
